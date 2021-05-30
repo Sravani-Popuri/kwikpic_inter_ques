@@ -1,5 +1,7 @@
 # kwikpic_inter_ques
 
+command lines and git : 
+
 git init(command name)
 The command git init is used to create an empty Git repository. 
 After the git init command is used, a .git folder is created in the directory with some subdirectories. Once the repository is initialized, the process of creating other files begins.
